@@ -4,3 +4,5 @@
 
 Staging and Unstaging 
 <img width="724" height="612" alt="image" src="https://github.com/user-attachments/assets/e1edb935-7453-4764-a69f-019bf75f4479" />
+
+.gitignorre folder can be used for ignoring irrelevent files and folders
